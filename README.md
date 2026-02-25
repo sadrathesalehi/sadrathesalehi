@@ -1,84 +1,119 @@
-<div align="center">
+<!-- ======================= HERO SECTION ======================= -->
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descSize=16&descAlignY=51" />
+<h1 align="center">
+  <span style="color:#00f7ff;">⚡ Sadra Salehi ⚡</span>
+</h1>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+awesome+things+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+source+contributor+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Magic+%E2%98%95" alt="Typing SVG" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Database+Manager;Machine+Learning+Engineer;Designing+Intelligent+Data+Systems;Optimizing+Performance+Through+AI" 
+      alt="Typing Animation" 
+    />
+  </a>
+</p>
+
+<p align="center">
+  <b style="color:#39FF14;">Engineering High-Performance Data Systems with Intelligent Precision</b>
+</p>
+
+---
+
+<!-- ======================= ABOUT ME ======================= -->
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+I architect <b>high-performance database systems</b> and build <b>machine learning solutions</b> that transform raw data into strategic intelligence.<br><br>
+With a strong foundation in <b>MySQL optimization</b> and the <b>Python ML ecosystem</b>, I focus on scalability, performance tuning, and intelligent automation.<br><br>
+I don’t just manage data — I engineer systems that make it think.
+</p>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h2 align="center">⚙️ Tech Arsenal</h2>
+
+<p align="center">
+
+### 💾 Database
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+### 🖥 Programming
+<img src="https://skillicons.dev/icons?i=python" />
+
+### 🤖 Machine Learning Ecosystem
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,numpy" />
+
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+
+<h2 align="center">📊 GitHub Intelligence</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=39ff14&text_color=ffffff" 
+    height="180"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=39FF14&currStreakLabel=00F7FF" 
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" 
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=39ff14&point=ffffff&hide_border=true" 
+    width="95%"
+  />
+</p>
+
+---
+
+<!-- ======================= FEATURED FOCUS ======================= -->
+
+<h2 align="center">🚀 Core Focus</h2>
+
+<p align="center">
+  
+<img src="https://img.shields.io/badge/Data_Engineering-0d1117?style=for-the-badge&logo=databricks&logoColor=00F7FF&labelColor=0d1117&color=00F7FF" />
+<img src="https://img.shields.io/badge/Machine_Learning_Systems-0d1117?style=for-the-badge&logo=tensorflow&logoColor=39FF14&labelColor=0d1117&color=39FF14" />
+<img src="https://img.shields.io/badge/Performance_Optimization-0d1117?style=for-the-badge&logo=linux&logoColor=8A2BE2&labelColor=0d1117&color=8A2BE2" />
+<img src="https://img.shields.io/badge/Intelligent_Automation-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF&labelColor=0d1117&color=00F7FF" />
+
+</p>
+
+---
+
+<!-- ======================= CONTACT ======================= -->
+
+<h2 align="center">📡 Connect</h2>
+
+<p align="center">
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0d1117&color=39FF14" />
 </a>
 
-<br/>
+<a href="https://linkedin.com/in/your-linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=0d1117&color=00F7FF" />
+</a>
 
-<!-- Profile Views & Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=blue&labelColor=1a1a2e)
-
-</div>
-
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/YOUR_USERNAME/YOUR_REPO_2)
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_ID)
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
+</p>
